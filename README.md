@@ -6,23 +6,17 @@ A React-based Google Books Search application.
 
 This is the twenty-second homework assignment for the UConn Coding Boot Camp curriculum.
 
-View the deployed application [here]()
+View the deployed application [here](inactive)
 
 ## Table of Contents
 
 [Description](#description)
 [Technologies Used](#tech-used)
-[](#)
 [Goals](#goals)
 [Instructions](#instructions)
-[](#)
-
 [User Story](#user-story)
 [Acceptance Criteria](#acceptance-criteria)
-[MVC Structure](#mvc-structure)
-[](#)
-[](#)
-[Contributing](#contributin)
+[Contributing](#contributing)
 [License](#license)
 
 ## Technologies Used
