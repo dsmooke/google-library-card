@@ -1,23 +1,30 @@
 # Google Library Card
 
+<span align="left">
+
+<a href="https://img.shields.io/badge/License-MIT-brightgreen?style=plastic"><img alt="M.I.T. License use" src="https://img.shields.io/badge/License-MIT-brightgreen?style=plastic"/></a>
+
+ </span>
+ 
 ## Description
 
 A React-based Google Books Search application.
 
-This is the twenty-second homework assignment for the UConn Coding Boot Camp curriculum.
-
 View the deployed application [here](inactive)
+
+** **Update April 2021** link to the deployed application is inactive **
 
 ## Table of Contents
 
-[Description](#description)
-[Technologies Used](#tech-used)
-[Goals](#goals)
-[Instructions](#instructions)
-[User Story](#user-story)
-[Acceptance Criteria](#acceptance-criteria)
-[Contributing](#contributing)
-[License](#license)
+- [Description](#description)
+- [Technologies Used](#technologies-used)
+- [Goals](#goals)
+- [Instructions](#instructions)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Technologies Used
 
@@ -131,6 +138,13 @@ WHEN the user examines the code of the application
 THEN the user will see code that meets good quality coding standards
 
 ```
+## Installation
+
+1. Clone repo and install packages. Edit scripts within package.json file. npm start to run in integrated terminal, run in browser with localhost:3000.
+
+## Contributing
+
+[Dana Smooke]("https://github.com/dsmooke")
 
 ## License
 
